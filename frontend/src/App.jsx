@@ -1,4 +1,3 @@
-// App.jsx
 import React, { useState } from "react";
 import styled, { createGlobalStyle } from "styled-components";
 
@@ -136,10 +135,7 @@ function App() {
             This web tool takes arithmetic expressions and generates
             corresponding
             <strong> Three Address Code (TAC)</strong> and{" "}
-            <strong>Quadruple Representations</strong>. Designed for Compiler
-            Construction projects.
-            <br></br>
-            <br></br> <strong>Submitted by: Rittwika Samanta</strong>
+            <strong>Quadruple Representations</strong>.
           </Subtitle>
         )}
 
